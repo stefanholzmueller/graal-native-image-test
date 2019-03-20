@@ -1,0 +1,6 @@
+[
+  {
+    "name" : "org.bouncycastle.jcajce.provider.digest.SHA256$HashMac",
+    "allPublicConstructors" : true
+  }
+]
